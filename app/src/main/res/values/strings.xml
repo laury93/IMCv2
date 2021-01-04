@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Índice de masa corporal (IMC) V2</string>
+    <string name="tv_peso">Peso (Kg)</string>
+    <string name="tv_altura">Altura (cm)</string>
+    <string name="rb_hombre">Hombre</string>
+    <string name="rb_mujer">Mujer</string>
+    <string name="btn_calcular">CALCULAR</string>
+    <string name="tv_imc"></string>
+</resources>
